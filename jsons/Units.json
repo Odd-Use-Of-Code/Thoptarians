@@ -8,7 +8,7 @@
 		"strength": 500,
 		"cost": 20,
 		"uniques": ["Never appears as a Barbarian unit"],
-		"promotions": ["Ignore terrain cost"],
+		"promotions": ["Ignore terrain cost", "Scouting III", "Scouting II", "Scouting I"],
 		"requiredTech": "Archery",
 		"attackSound": "Arrow"
 	}
