@@ -5,11 +5,11 @@
 		"replaces": "Monument",
 		"uniqueTo": "Thoptaria",
 		"cost": 10,
-		"production": 200,
-		"science": 500,
+		"production": 1000,
+		"science": 1000,
+		"gold": 50000,
 		"hurryCostModifier": 20,
 		"happiness": 100,
-		"uniques": ["Free Technology"],
-		"requiredTech": "Mining",
+		"uniques": ["Free Technology","Free Technology","Free Technology","Free Technology","Free Technology","Free Technology","Free Technology"],
 	}
 ]
