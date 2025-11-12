@@ -9,7 +9,7 @@
 		"science": 500,
 		"hurryCostModifier": 20,
 		"happiness": 100,
-		"uniques": ["Free Technology"]
-		"requiredTech": "mining"
+		"uniques": ["Free Technology"],
+		"requiredTech": "Mining",
 	}
 ]
