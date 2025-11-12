@@ -12,4 +12,17 @@
 		"requiredTech": "Archery",
 		"attackSound": "Arrow"
 	}
+
+	{
+
+	"name": "Artificer",
+		"uniqueTo": "Thoptaria",
+		"unitType": "Civilian",
+		"replaces": "Worker",
+		"movement": 6,
+		"uniques": ["Can build [Land] improvements on tiles"],
+		"promotions": ["Ignore terrain cost"],
+		"cost": 10
+
+	}
 ]
