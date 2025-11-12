@@ -3,7 +3,7 @@
 		"name": "Thopters",
 		"unitType": "Sword",
 		"uniqueTo": "Thoptaria",
-		"replaces": "Machine Gun",
+		"replaces": "Warrior",
 		"movement": 8,
 		"strength": 500,
 		"rangedStrength": 100,
