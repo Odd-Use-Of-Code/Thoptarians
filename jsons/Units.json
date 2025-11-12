@@ -4,11 +4,13 @@
 		"unitType": "Sword",
 		"uniqueTo": "Thoptaria",
 		"replaces": "Warrior",
-		"movement": 8,
+		"movement": 20,
 		"strength": 500,
-		"rangedStrength": 100,
-		"range": 4,
-		"cost": 100,
+		"rangedStrength": 300,
+		"range": 8,
+		"cost": 50,
+		"uniques": ["Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
 		"requiredTech": "Archery",
 		"attackSound": "Arrow"
 	}
