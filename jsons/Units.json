@@ -1,17 +1,15 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"name": "Thopters",
+		"unitType": "Sword",
+		"uniqueTo": "Thoptaria",
 		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"movement": 8,
+		"strength": 500,
+		"rangedStrength": 100,
+		"range": 4,
+		"cost": 100,
+		"requiredTech": "Archery",
+		"attackSound": "Arrow"
 	}
 ]
