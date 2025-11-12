@@ -14,7 +14,7 @@
 		"defeated": "We came so far. And this is it. Our Reward.",
 		"introduction": "We come on wings of man's collective knowledge. We wish to share our gifts.",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "Greetings Associates",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
@@ -24,8 +24,8 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "The Future comes for us all. This was always inevitable.",
+		"tradeRequest": "We soar with the clouds, and bring gifts from far off lands.",
 
 		"outerColor": [219, 243, 245],
 		"innerColor": [209, 45, 45],
