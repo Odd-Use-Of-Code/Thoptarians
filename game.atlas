@@ -1,5 +1,5 @@
 
-newgame.png
+game.png
 size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
